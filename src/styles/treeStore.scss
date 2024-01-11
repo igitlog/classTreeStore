@@ -1,0 +1,12 @@
+.wrapper {
+  .treeStoreHtml {
+    display: flex;
+    gap: 40px;
+    &__itemHeader {
+      font-size: 22px;
+    }
+    &__itemBody {
+
+    }
+  }
+}
